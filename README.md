@@ -4,6 +4,10 @@
 
 Think of it as a streamlined, DIY alternative to Sherlock. It uses asynchronous Python to ping multiple social media sites, developer platforms, and forums simultaneously—telling you exactly where a specific username exists in seconds.
 
+<p align="center">
+  <img src="image.png" width="700"/>
+</p>
+
 ---
 
 ## ✨ Why use Snyfx?
